@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "78029802019",
+    "firebase_url": "https://tashwal-default-rtdb.firebaseio.com",
+    "project_id": "tashwal",
+    "storage_bucket": "tashwal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78029802019:android:1d5e9411448d8d6b6bff96",
+        "android_client_info": {
+          "package_name": "com.example.itsmypet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78029802019-44st3sboet2p59e9p5fl32n9ofj5iqio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_bhS_mmVJ5rFEcgntwPVZ6MXjWLavJdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78029802019-44st3sboet2p59e9p5fl32n9ofj5iqio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78029802019:android:9cf303c0807910926bff96",
+        "android_client_info": {
+          "package_name": "com.example.newproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78029802019-44st3sboet2p59e9p5fl32n9ofj5iqio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_bhS_mmVJ5rFEcgntwPVZ6MXjWLavJdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78029802019-44st3sboet2p59e9p5fl32n9ofj5iqio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
